@@ -1,1 +1,1 @@
-Эта библиотека является вспомогательной для библиотек [mapbox-php](https://github.com/WladTitow/mapbox-php.git).
+Эта библиотека является вспомогательной для библиотек [orion-php](https://github.com/WladTitow/orion-api-php.git).
